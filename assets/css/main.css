@@ -1315,3 +1315,7 @@ p.titulo-fotos {
     margin: 6px 0 8px 0px;
     line-height: 2rem;
 }
+
+p.texto-contacto {
+    font-size: 1.3em;
+}
